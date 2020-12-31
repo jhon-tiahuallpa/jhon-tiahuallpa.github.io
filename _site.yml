@@ -12,4 +12,6 @@ navbar:
       href: about.html
     - text: "Acerca de mi"
       href: acerca-de.html
+    - text: "Sobre mi"
+      href: acerca.html
 output: distill::distill_article
