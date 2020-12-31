@@ -1,5 +1,39 @@
 [
   {
+    "path": "posts/2020-12-31-otro/",
+    "title": "Otro",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Yhon Tiahuallpa",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-31",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-31T06:34:06+00:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/8_26_20_second/",
+    "title": "My second post",
+    "description": "This is a second post",
+    "author": [
+      {
+        "name": "Yhon Tiahuallpa",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-31",
+    "categories": [],
+    "contents": "\nhead right in and write the second post.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-31T06:31:31+00:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/31_12_20/",
     "title": "Mi tercer post post",
     "description": "This is a second post",
@@ -14,23 +48,6 @@
     "contents": "\nhead right in and write the second post.\n\n\n\n",
     "preview": {},
     "last_modified": "2020-12-31T06:10:46+00:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/8_26_20_second/",
-    "title": "My second post",
-    "description": "This is a second post",
-    "author": [
-      {
-        "name": "Matt Crump",
-        "url": "https://crumplab.github.io"
-      }
-    ],
-    "date": "2020-08-26",
-    "categories": [],
-    "contents": "\nhead right in and write the second post.\n\n\n",
-    "preview": {},
-    "last_modified": "2020-12-31T05:36:55+00:00",
     "input_file": {}
   },
   {

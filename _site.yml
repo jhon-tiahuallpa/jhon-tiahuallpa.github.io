@@ -1,11 +1,11 @@
 name: "blog"
-title: "My Blog"
+title: "Yhon Tiahuallpa"
 description: |
-  My Blog
+  Recursos interesantes sobre mi
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
+    - text: "Inicio"
       href: index.html
     - text: "About"
       href: about.html
