@@ -1,5 +1,6 @@
 name: "blog"
 title: "Yhon Tiahuallpa"
+theme: theme.css
 description: |
   Recursos interesantes sobre mi
 output_dir: "docs"
