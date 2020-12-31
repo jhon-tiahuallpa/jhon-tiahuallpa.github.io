@@ -5,9 +5,11 @@ description: |
   Recursos interesantes sobre mi
 output_dir: "docs"
 navbar:
-  right:
+  right: 
     - text: "Inicio"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Acerca de mi"
+      href: acerca-de.html
 output: distill::distill_article
