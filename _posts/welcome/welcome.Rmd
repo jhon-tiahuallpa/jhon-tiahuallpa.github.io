@@ -1,15 +1,11 @@
 ---
-title: "My first post"
+title: "Mi primer Post"
 description: |
-  This is a first post
+  Aqui debe ir una descripcion chingona
 author:
-  - name: Matt Crump 
-    url: https://crumplab.github.io
-    affiliation: Brooklyn College
-    affiliation_url: https://brooklyn.cuny.edu
+  - name: Yhon Tiahuallpa
+    url: https://jhon-tiahuallpa.github.io
 date: 08-26-2020
-bibliography: newpapers.bib
-csl: apa.csl
 output:
   distill::distill_article:
     self_contained: false
@@ -24,11 +20,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-I can write my first post. And, basically just write a plain text file. 
+Aqui debe ir una breve introduccion sobre lo que yo voy a querer decir 
 
-# my first level header
+# Mi primer subtitulo
 
-Some more text could go here. I'm writing about something. It's taking a while.
+Mi primer parrafo
 
 ## Here is a second level header
 

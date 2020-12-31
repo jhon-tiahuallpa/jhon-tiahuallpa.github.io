@@ -1,8 +1,8 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "My first post",
-    "description": "This is a first post",
+    "path": "posts/31_12_20/",
+    "title": "Mi tercer post post",
+    "description": "This is a second post",
     "author": [
       {
         "name": "Matt Crump",
@@ -11,9 +11,10 @@
     ],
     "date": "2020-08-26",
     "categories": [],
-    "preview": "posts/welcome/img/course.png",
-    "last_modified": "2020-09-03T11:23:42-04:00",
-    "input_file": "welcome.utf8.md"
+    "contents": "\nhead right in and write the second post.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-31T06:10:46+00:00",
+    "input_file": {}
   },
   {
     "path": "posts/8_26_20_second/",
@@ -27,8 +28,26 @@
     ],
     "date": "2020-08-26",
     "categories": [],
+    "contents": "\nhead right in and write the second post.\n\n\n",
     "preview": {},
-    "last_modified": "2020-08-26T14:56:30-04:00",
-    "input_file": "second.utf8.md"
+    "last_modified": "2020-12-31T05:36:55+00:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Mi primer Post",
+    "description": "Aqui debe ir una descripcion chingona",
+    "author": [
+      {
+        "name": "Yhon Tiahuallpa",
+        "url": "https://jhon-tiahuallpa.github.io"
+      }
+    ],
+    "date": "2020-08-26",
+    "categories": [],
+    "contents": "\nAqui debe ir una breve introduccion sobre lo que yo voy a querer decir\nMi primer subtitulo\nMi primer parrafo\nHere is a second level header\nHere is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text.\nThis is a first thing\nThis is a second thing\nThis is a third thing\nbullet one\nbullet two\nbullet three\nYou can insert links like this https://crumplab.github.io.\nOr you can insert links like this my website.\nhttps://www.markdownguide.org/basic-syntax/\nciting a paper\nIn one example, researchers studied the Stroop effect [@algomRationalLookEmotional2004].\nBlah blah blah [@verhaeghenAgingStroopEffect1998]\npictures\n\n\n\nReferences\n\n\n\n",
+    "preview": "posts/welcome/img/course.png",
+    "last_modified": "2020-12-31T06:20:00+00:00",
+    "input_file": {}
   }
 ]
