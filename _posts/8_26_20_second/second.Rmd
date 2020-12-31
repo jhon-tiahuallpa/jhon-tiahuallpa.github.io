@@ -1,0 +1,27 @@
+---
+title: "My second post"
+description: |
+  This is a second post
+author:
+  - name: Matt Crump 
+    url: https://crumplab.github.io
+    affiliation: Brooklyn College
+    affiliation_url: https://brooklyn.cuny.edu
+date: 08-26-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+head right in and write the second post.
+
+
+

@@ -1,0 +1,34 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "My first post",
+    "description": "This is a first post",
+    "author": [
+      {
+        "name": "Matt Crump",
+        "url": "https://crumplab.github.io"
+      }
+    ],
+    "date": "2020-08-26",
+    "categories": [],
+    "preview": "posts/welcome/img/course.png",
+    "last_modified": "2020-09-03T11:23:42-04:00",
+    "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/8_26_20_second/",
+    "title": "My second post",
+    "description": "This is a second post",
+    "author": [
+      {
+        "name": "Matt Crump",
+        "url": "https://crumplab.github.io"
+      }
+    ],
+    "date": "2020-08-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-26T14:56:30-04:00",
+    "input_file": "second.utf8.md"
+  }
+]
