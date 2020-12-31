@@ -1,11 +1,11 @@
 ---
-title: "Mi primer Post"
+title: "Curso: Modelos Lineales"
 description: |
-  Aqui debe ir una descripcion chingona
+  Materiales de los cursos que lleve
 author:
   - name: Yhon Tiahuallpa
     url: https://jhon-tiahuallpa.github.io
-date: 08-26-2020
+date: 12-31-2020
 output:
   distill::distill_article:
     self_contained: false

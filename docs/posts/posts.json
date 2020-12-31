@@ -34,6 +34,23 @@
     "input_file": {}
   },
   {
+    "path": "posts/welcome/",
+    "title": "Curso: Modelos Lineales",
+    "description": "Materiales de los cursos que lleve",
+    "author": [
+      {
+        "name": "Yhon Tiahuallpa",
+        "url": "https://jhon-tiahuallpa.github.io"
+      }
+    ],
+    "date": "2020-12-31",
+    "categories": [],
+    "contents": "\nAqui debe ir una breve introduccion sobre lo que yo voy a querer decir\nMi primer subtitulo\nMi primer parrafo\nHere is a second level header\nHere is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text.\nThis is a first thing\nThis is a second thing\nThis is a third thing\nbullet one\nbullet two\nbullet three\nYou can insert links like this https://crumplab.github.io.\nOr you can insert links like this my website.\nhttps://www.markdownguide.org/basic-syntax/\nciting a paper\nIn one example, researchers studied the Stroop effect [@algomRationalLookEmotional2004].\nBlah blah blah [@verhaeghenAgingStroopEffect1998]\npictures\n\n\n\nReferences\n\n\n\n",
+    "preview": "posts/welcome/img/course.png",
+    "last_modified": "2020-12-31T07:29:32+00:00",
+    "input_file": "welcome.utf8.md"
+  },
+  {
     "path": "posts/31_12_20/",
     "title": "Mi tercer post post",
     "description": "This is a second post",
@@ -48,23 +65,6 @@
     "contents": "\nhead right in and write the second post.\n\n\n\n",
     "preview": {},
     "last_modified": "2020-12-31T06:10:46+00:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/welcome/",
-    "title": "Mi primer Post",
-    "description": "Aqui debe ir una descripcion chingona",
-    "author": [
-      {
-        "name": "Yhon Tiahuallpa",
-        "url": "https://jhon-tiahuallpa.github.io"
-      }
-    ],
-    "date": "2020-08-26",
-    "categories": [],
-    "contents": "\nAqui debe ir una breve introduccion sobre lo que yo voy a querer decir\nMi primer subtitulo\nMi primer parrafo\nHere is a second level header\nHere is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text. Here is some more text.\nThis is a first thing\nThis is a second thing\nThis is a third thing\nbullet one\nbullet two\nbullet three\nYou can insert links like this https://crumplab.github.io.\nOr you can insert links like this my website.\nhttps://www.markdownguide.org/basic-syntax/\nciting a paper\nIn one example, researchers studied the Stroop effect [@algomRationalLookEmotional2004].\nBlah blah blah [@verhaeghenAgingStroopEffect1998]\npictures\n\n\n\nReferences\n\n\n\n",
-    "preview": "posts/welcome/img/course.png",
-    "last_modified": "2020-12-31T06:20:00+00:00",
     "input_file": {}
   }
 ]
