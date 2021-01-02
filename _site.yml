@@ -1,4 +1,4 @@
-permalink: /pagina-no-encontrada.html
+permalink: /404.html
 name: "blog"
 title: "Yhon Tiahuallpa"
 theme: theme.css
@@ -15,4 +15,6 @@ navbar:
       href: acerca-de.html
     - text: "Sobre mi"
       href: acerca.html
+    - text: "Sobre mi"
+      href: 404.html
 output: distill::distill_article
