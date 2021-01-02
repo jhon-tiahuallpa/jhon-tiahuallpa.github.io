@@ -17,9 +17,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+Aqui mostraria una foto del niño Matias pero no le he tomado U_U <https://rstudio.github.io/distill>.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+
 
 
 

@@ -6,7 +6,7 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-01-02T22:28:56+00:00"
+      "last_modified": "2021-01-02T22:33:22+00:00"
     },
     {
       "path": "acerca-de.html",
@@ -14,21 +14,21 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2021-01-02T22:28:57+00:00"
+      "last_modified": "2021-01-02T22:33:23+00:00"
     },
     {
       "path": "acerca.html",
       "title": "Yhon Tiahuallpa",
       "author": [],
       "contents": "",
-      "last_modified": "2021-01-02T22:28:57+00:00"
+      "last_modified": "2021-01-02T22:33:23+00:00"
     },
     {
       "path": "index.html",
       "title": "Posts",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-01-02T22:28:57+00:00"
+      "last_modified": "2021-01-02T22:33:24+00:00"
     }
   ],
   "collections": ["posts/posts.json"]
