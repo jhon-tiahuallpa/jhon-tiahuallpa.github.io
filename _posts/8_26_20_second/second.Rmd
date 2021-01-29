@@ -20,5 +20,56 @@ knitr::opts_chunk$set(echo = FALSE)
 
 head right in and write the second post.
 
+!()[https://assets8.lottiefiles.com/private_files/lf30_kyrvk2mi.json]
+![Esta es una imagen de ejemplo](https://assets9.lottiefiles.com/packages/lf20_PBgNop.json)
 
 
+<div class="aside">
+<h2>My heading</h2>
+<p>Some text, some text, some more text.</p>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets9.lottiefiles.com/packages/lf20_PBgNop.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+</div>
+
+
+
+
+
+
+
+
+<div class="gifs-card-container"  *ngFor="let item of data">
+  <img src={{https://assets8.lottiefiles.com/private_files/lf30_kyrvk2mi.json}}>
+</div>
+
+
+
+
+
+
+<div class="aside">
+<h2>My heading</h2>
+<p>Some text, some text, some more text.</p>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets9.lottiefiles.com/datafiles/MUp3wlMDGtoK5FK/data.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"    autoplay></lottie-player>
+</div>
+
+
+<div class="aside">
+<h2>My heading</h2>
+<p>La siguiente linea de codigo es para instalar el reproductor</p>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_fbztngrf.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"    autoplay></lottie-player>
+</div>
+
+
+<div class="aside">
+<h2>My heading</h2>
+<p>Ultimo.</p>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_fbztngrf.json"  background="transparent"  speed="3" mode="bounce" style="width: 800px; height: 300px;"  loop  autoplay></lottie-player>
+</div>
+https://assets10.lottiefiles.com/packages/lf20_fbztngrf.json
+
+
+Solo he cambiado el width de 300 a 800
