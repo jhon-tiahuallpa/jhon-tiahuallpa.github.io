@@ -26,3 +26,13 @@ Aqui mostraria una foto del niño Matias pero no le he tomado U_U <https://rstud
 ```{r}
 plot(1:10)
 ```
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="jhon-tiahuallpa/jhon-tiahuallpa.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

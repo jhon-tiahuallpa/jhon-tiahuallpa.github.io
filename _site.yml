@@ -2,6 +2,8 @@ permalink: /404.html
 name: "blog"
 title: "Yhon Tiahuallpa"
 theme: theme.css
+includes:
+      in_header: utterances.html
 description: |
   Recursos interesantes sobre mi
 output_dir: "docs"
