@@ -1,6 +1,5 @@
 ---
 title: "Yhon Tiahuallpa"
-image: "herzl.jpg"
 color1: "#5A59A3"
 color2: "#C66060"
 angle: 130

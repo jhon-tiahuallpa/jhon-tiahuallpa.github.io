@@ -27,6 +27,9 @@ La pagina de github donde se ubica es: [https://github.com/tidyverse/rvest]
 # Alternatively, install just rvest:
 #install.packages("rvest")
 #library(rvest)
+library(distill)
+library(rmarkdown)
+render_site("acerca.Rmd")
 ```
 
 
